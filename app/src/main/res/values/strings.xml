@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapsExample</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mapsApp">карты(App)</string>
+    <string name="mapsActivity">карты(Activity)</string>
+    <string name="mapsAppStreet">StreetView(App)</string>
+    <string name="mapsActivityStreet">StreetView(Activity)</string>
+</resources>
